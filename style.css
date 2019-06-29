@@ -1,0 +1,22 @@
+body {
+
+background-image: url(1.jpg);
+
+}
+
+.title {
+ color: red;
+ border-radius: 20px;
+ text-align: center;
+ font-size: 72px;
+ border: 10px solid gray;
+ background-color: white;
+}
+
+.posilept {
+ text-align: center;
+ font-size: 28px;
+ border: 10px solid gray;
+ border-radius: 20px;
+ background-color: white;
+}
